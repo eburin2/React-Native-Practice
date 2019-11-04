@@ -5,12 +5,12 @@ const ListScreen = () => {
   const friends = [
     { name: 'Sam', age: 20},
     { name: 'Henry', age: 33},
-    { name: 'John', age: 29},
+    { name: 'Sarah', age: 29},
     { name: 'Kelly', age: 19},
-    { name: 'Pig', age: 17},
-    { name: 'G', age: 14},
-    { name: 'WHAM', age: 54},
-    { name: 'Moose', age: 28}
+    { name: 'Phil', age: 17},
+    { name: 'Gary', age: 14},
+    { name: 'Billie', age: 54},
+    { name: 'Lisa', age: 28}
   ];
 
   return (
